@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Shreyansh Narayan
 ####  AI & ML Enthusiast
-![ AI & ML Enthusiast](https://www.analyticsinsight.net/wp-content/uploads/2020/07/Artificial-Intelligence-Trends.jpeg)
+![ AI & ML Enthusiast](https://www.icescrum.com/wp-content/uploads/2018/10/github.png)
 
 I am currently pursuing my Bachelor's of Engineering in CSE at MSRIT, Bangalore and currently busy in building up my programming skills.
 
