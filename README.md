@@ -4,7 +4,7 @@
 
 I am currently pursuing my Bachelor's of Engineering in CSE at MSRIT, Bangalore and currently busy in building up my programming skills.
 
-Skills: SQL / PHP / JS / HTML / CSS
+Skills: NodeJS / ExpressJS / Javascript / MongoDB / SQL / PHP / HTML / CSS
 
 - 🔭 I’m currently working on building up my programming and development skills for industry standard. 
 - 🌱 I’m currently learning Graphs and Trees. 
