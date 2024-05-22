@@ -4,12 +4,12 @@
 
 I am currently pursuing my Bachelor's of Engineering in CSE at MSRIT, Bangalore and currently busy in building up my programming skills.
 
-Skills: NodeJS / ExpressJS / Javascript / MongoDB / SQL / PHP / HTML / CSS
+Skills: C++ / Javascript / Python / SQL / HTML / CSS
 
 - 🔭 I’m currently working on building up my programming and development skills for industry standard. 
-- 🌱 I’m currently learning Graphs and Trees. 
-- 👯 I’m looking to collaborate on X-iblog. 
-- 💬 Ask me about Indian Startups and  Defense forces. 
+- 🌱 I’m currently learning & exploring trending AI&ML technologies. 
+- 👯 I’m looking to collaborate on medical chatbot. 
+- 💬 Ask me about AI&ML cool stuffs. 
 - 📫 How to reach me: sriansh.ara@gmail.com 
 - ⚡ Fun fact: Github streaks are the most difficult to maintain. 
 
