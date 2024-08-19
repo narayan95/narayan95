@@ -4,7 +4,7 @@
 
 I am currently pursuing my Bachelor's of Engineering in CSE at MSRIT, Bangalore and currently busy in building up my programming skills.
 
-Skills: C++ / Javascript / Python / SQL / HTML / CSS
+Skills: C++ / Javascript / Python / SQL / Langchain / GenerativeAI / Conversational AI / HTML / CSS
 
 - 🔭 I’m currently working on building up my programming and development skills for industry standard. 
 - 🌱 I’m currently learning & exploring trending AI&ML technologies. 
